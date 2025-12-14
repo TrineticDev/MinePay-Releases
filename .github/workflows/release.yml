@@ -12,5 +12,10 @@ jobs:
         run: |
           curl -H "Content-Type: application/json" \
           -X POST \
-          -d "{\"content\": \"🚀 New release published: **${{ github.event.release.name }}**\n${{ github.event.release.html_url }}\"}" \
+          -d '{
+            "content": "<@&1446976552788295852>\n🚀 **New release published:** **${{ github.event.release.name }}**\n${{ github.event.release.html_url }}",
+            "allowed_mentions": {
+              "roles": ["1446976552788295852"]
+            }
+          }' \
           ${{ secrets.DISCORD_WEBHOOK }}
