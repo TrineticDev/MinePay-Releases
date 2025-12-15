@@ -17,7 +17,7 @@ MinePay is **licensed, not sold**. Subject to the terms of this Agreement, you a
 You are expressly permitted to:
 
 - ✅ Modify, edit, and adapt MinePay for personal or internal use
-- ✅ Create private forks or builds for use on servers you own or manage
+- ✅ Create private builds for use on servers you own or manage
 
 This permission applies to all previous, current, and future versions of MinePay.
 
@@ -27,10 +27,9 @@ This permission applies to all previous, current, and future versions of MinePay
 
 You may **NOT**, under any circumstances:
 
-- ❌ Redistribute MinePay, in whole or in part, in source or compiled form
+- ❌ Redistribute MinePays code.
 - ❌ Sell, sublicense, lease, rent, or monetize MinePay or any derivative works
-- ❌ Share modified or unmodified versions with third parties
-- ❌ Upload MinePay or its code to public or private repositories not owned by you
+- ❌ Upload MinePay or its code to public or private repositories.
 - ❌ Include MinePay in any paid or free plugin packs, bundles, or distributions without direct approval from the Trinetic team
 
 > **⚠️ Warning:** Redistribution or resale of MinePay or its code is strictly prohibited and considered a material breach of this Agreement.
@@ -90,7 +89,7 @@ Upon termination, you must:
 
 ## 9. Enforcement
 
-Unauthorized redistribution, resale, or monetization of MinePay may result in:
+Unauthorized resale, or monetization of MinePay may result in:
 
 - Immediate license termination
 - Potential legal action
